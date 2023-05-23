@@ -23,3 +23,5 @@ https://cloud.google.com/free - Google cloud free services (contains always free
 https://www.easycron.com/ - free cron job service
 
 https://realtimecolors.com/ - free color paltet test
+
+https://www.mezmo.com/ - free log analysis with ingress limit 10 GB/month
